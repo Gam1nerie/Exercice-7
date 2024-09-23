@@ -70,7 +70,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="exercise7-2.vb" />
-    <Compile Include="exrcise7-1.vb" />
+    <Compile Include="exercise7-3.vb" />
+    <Compile Include="exercise7-1.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
